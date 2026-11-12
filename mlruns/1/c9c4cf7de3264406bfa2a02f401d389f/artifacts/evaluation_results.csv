@@ -1,0 +1,8 @@
+Metric,Popularity Model,SVD Model
+Precision@10,0.3086,0.166
+Recall@10,0.0524,0.0255
+NDCG@10,0.3375,0.2063
+Coverage,0.0013,0.0144
+Diversity,1.0,0.9458
+RMSE,N/A,0.8812
+MAE,N/A,0.6796

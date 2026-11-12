@@ -1,0 +1,13 @@
+Feature Name,Type,Description,Data Type,Used For
+user_avg_rating,User,Average rating given by user,float,Training & Prediction
+user_activity_count,User,Total number of ratings by user,int,Training & Prediction
+user_std_rating,User,Standard deviation of user ratings,float,Training & Prediction
+user_min_rating,User,Minimum rating given by user,float,Training & Prediction
+user_max_rating,User,Maximum rating given by user,float,Training & Prediction
+days_since_last_interaction,User,Days since user last interacted,int,Training & Prediction
+preferred_category,User,Users most rated genre category,string,Training & Prediction
+item_avg_rating,Item,Average rating received by item,float,Training & Prediction
+item_popularity,Item,Total number of ratings for item,int,Training & Prediction
+item_std_rating,Item,Standard deviation of item ratings,float,Training & Prediction
+item_min_rating,Item,Minimum rating received by item,float,Training & Prediction
+item_max_rating,Item,Maximum rating received by item,float,Training & Prediction
